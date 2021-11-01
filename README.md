@@ -4,6 +4,8 @@
 - I do things with tech or something
 - I like to build things
 - I love music
+## A IDE where I do things:
+[Replit](https://replit.com/@KaiSato)
 
 
 <!---
