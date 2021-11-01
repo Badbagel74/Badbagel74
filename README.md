@@ -1,6 +1,9 @@
-- Hey! I'm @Badbagel74!
+## Hey!
+### I'm @Badbagel74!
+## About Me
 - I do things with tech or something
 - I like to build things
+- I love music
 
 
 <!---
