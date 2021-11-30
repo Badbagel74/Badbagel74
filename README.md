@@ -4,7 +4,7 @@
 - I do things with tech or something
 - I like to build things
 - I love music
-###This is a alt account, my main is @badbagel, but the projects are private there
+### This is a alt account, my main is @badbagel, where there are top secret (private for now) projects!
 
 
 <!---
